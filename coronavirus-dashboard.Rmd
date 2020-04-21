@@ -178,9 +178,7 @@ plotly::plot_ly(data = df_daily) %>%
     x = as.Date("2020-03-18"),
     y = 14,
     text = paste(
-      "New containment",
-      "<br>",
-      "measures"
+      "Lockdown"
     ),
     xref = "x",
     yref = "y",
