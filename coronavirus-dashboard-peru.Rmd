@@ -375,7 +375,7 @@ About
 
 **The Coronavirus Dashboard: the case of Peru**
 
-This Coronavirus dashboard: the case of Peru provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic for Peru. This dashboard is built with R using the R Makrdown framework and was initially adapted from this [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/){target="_blank"} by Rami Krispin and then by this [dashboard](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html){target="_blank"} by Antoine Soetewey.
+This Coronavirus dashboard: the case of Peru provides an overview of the 2019 Novel Coronavirus COVID-19 (2019-nCoV) epidemic for Peru. This dashboard is built with R using the R Makrdown framework and was adapted from this [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/){target="_blank"} by Rami Krispin and this [dashboard](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) by Antoine Soetewey.
 
 **Code**
 
@@ -394,9 +394,11 @@ The data and dashboard are refreshed on a daily basis.
 
 The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus [repository](https://github.com/RamiKrispin/coronavirus-csv){target="_blank"}.
 
-**Contact**
+**Information and contact**
 
-For any question or feedback, you can [contact me](https://www.statsandr.com/contact/). More information about this dashboard can be found in this [article](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
+More information about this dashboard and how to replicate it for your own country can be found in this [article](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
+
+For any question or feedback, you can [contact me](https://www.statsandr.com/contact/).
 
 **Update**
 
