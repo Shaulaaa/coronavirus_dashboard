@@ -16,7 +16,7 @@ library(flexdashboard)
 # devtools::install_github("RamiKrispin/coronavirus", force = TRUE)
 library(coronavirus)
 data(coronavirus)
-update_datasets()
+# update_datasets()
 # View(coronavirus)
 # max(coronavirus$date)
 
@@ -409,11 +409,9 @@ The data and dashboard are refreshed on a daily basis.
 
 The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus [repository](https://github.com/RamiKrispin/coronavirus-csv){target="_blank"}.
 
-**Information and contact**
+**Information**
 
-More information about this dashboard and how to replicate it for your own country can be found in this [article](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
-
-For any question or feedback, you can [contact me](https://www.statsandr.com/contact/).
+More information about this dashboard (and how to replicate it for your own country) can be found in this [article](https://www.statsandr.com/blog/how-to-create-a-simple-coronavirus-dashboard-specific-to-your-country-in-r/).
 
 **Update**
 
